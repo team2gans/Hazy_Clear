@@ -4,9 +4,9 @@
 
 
 ###### Manoj Kumar Chamarthi 
-###### Sai Vinay Chakka
+###### Saivinay Chakka
 ###### Manaswini Obulampalli
-###### Prashanth
+###### Prashanth Chanagoni
 
 
 &nbsp;
