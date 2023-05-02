@@ -1,4 +1,4 @@
-# Hazy_Clear
+# Image Dehazing using Generative Adversarial Networks
 
 ### Team Members
 
